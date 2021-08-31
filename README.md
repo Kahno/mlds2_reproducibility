@@ -11,6 +11,7 @@ The repository is organized as follows:
 * Jupyter notebook `Evaluate_Models.ipynb` used for running the training and evaluation procedures,
 * Directory `transform`, which contains scripts to transform the LIBSVM datasets from the original repository into the appropriate format for the above models,
     * These scripts need to be ran before any model training!
+* `Reproducibility.pdf` - final project report,
 * `requirements.txt` used to initialize the conda environment.
 
 The environment is initialized and activated as follows:
