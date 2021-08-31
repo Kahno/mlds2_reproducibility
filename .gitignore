@@ -1,0 +1,6 @@
+criteo_data/*
+avazu_data/*
+frappe_data/*
+movielens_data/*
+
+.ipynb_checkpoints/*
